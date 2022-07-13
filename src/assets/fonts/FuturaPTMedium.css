@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'FuturaPTWebMedium';
+	src: url('FuturaPTMedium.eot');
+	src:
+	     url('FuturaPTMedium.eot?#iefix') format('embedded-opentype'),
+	     url('FuturaPTMedium.woff2') format('woff2'),
+	     url('FuturaPTMedium.woff') format('woff'),
+	     url('FuturaPTMedium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
